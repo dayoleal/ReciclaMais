@@ -47,17 +47,17 @@ melhor os processos.
 ## Clientes, usuários e demais impactados com o produto
 
 * Usuários finais: cidadãos que desejam descartar resíduos de forma correta e consciente, tornando o processo de reciclagem mais prático.
-* Clientes indiretos: prefeituras, órgãos ambientais, ONGs de sustentabilidade e cooperativas de reciclagem, que se beneficiam da melhoria na gestão de resíduos.
+* Clientes indiretos: prefeituras, órgãos ambientais, ONGs de sustentabilidade e cooperativas de reciclagem.
 * Envolvidos/impactados: empresas de coleta seletiva, meio ambiente e sociedade em geral, que ganham com a redução da poluição e maior conscientização ambiental.
 
 
 ## Principais critérios de qualidade para o produto
 
-* Usabilidade: interface intuitiva e fácil de navegar, adequada para todos os perfis de usuário.
+* Usabilidade: interface intuitiva, acessivel e fácil de navegar, adequada para todos os perfis de usuário.
 * Confiabilidade: informações precisas e atualizadas sobre tipos de resíduos e formas de descarte.
 * Desempenho: respostas rápidas nas pesquisas e consultas dentro do aplicativo.
-* Portabilidade: compatível com diferentes dispositivos móveis e sistemas operacionais.
-* Manutenibilidade: banco de dados flexível e facilmente atualizável, permitindo inclusão de novos materiais, pontos de coleta e dicas de reciclagem.
+* Portabilidade: compatível com diferentes dispositivos e sistemas operacionais.
+* Manutenibilidade: banco de dados flexível e facilmente atualizável
 * Amplitude de materiais: o sistema deve conter um banco de dados abrangente com diversos tipos de resíduos recicláveis.
 
 # Diagrama de Casos de Uso
