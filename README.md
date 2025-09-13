@@ -1,4 +1,4 @@
-# ♻️ Projeto de Modelagem – Aplicativo de Descarte Sustentável  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B8D8B8&height=200&section=header&text=Aplicativo%20%20%20%20de%20%20%20%20Descarte%20%20%20%20Sustentável&fontSize=40&fontColor=fff&animation=false&fontAlignY=30&desc=Projeto%20de%20Modelagem%20&descAlignY=50&descSize=18">
 
 ## Descrição  
 Este projeto apresenta a modelagem conceitual de um aplicativo voltado para o descarte sustentável de resíduos. A proposta é oferecer ao usuário um ambiente simples e intuitivo, no qual seja possível identificar o tipo de material de um objeto, receber dicas de descarte e localizar pontos de coleta próximos.  
